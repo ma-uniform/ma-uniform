@@ -206,9 +206,10 @@ section {
     color: #faa70c;
 }
 
-.more-details {
+.more-details a {
     text-decoration: none;
     color: #3a6cf4;
+    
 }
 
 .more-details:hover {

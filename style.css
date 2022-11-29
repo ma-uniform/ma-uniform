@@ -46,7 +46,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/backgrounds1.jpg) no-repeat;
+    background: url(images/backgrounds1.webp) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
